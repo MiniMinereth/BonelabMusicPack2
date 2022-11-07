@@ -1,0 +1,9 @@
+{
+  "name": "Monomat",
+  "description": "Song from Boneworks, Jingle from the Monomat Vending machines. Composed by Michael Wyckoff",
+  "author": "Miniminereth",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
